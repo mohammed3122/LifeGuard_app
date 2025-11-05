@@ -24,7 +24,7 @@ Life Guard هو تطبيق Flutter يهدف إلى مراقبة القياسات
 
 
 ## 📱 تطبيق المشروع
-![views](https://github.com/mohammed3122/shop_app/blob/main/screenshots/media.png)
+![views](https://github.com/mohammed3122/LifeGuard_app/blob/main/global%20application.png)
 
 ## حقوق النشر
 جميع الحقوق محفوظة © 2024 Alpha Team
