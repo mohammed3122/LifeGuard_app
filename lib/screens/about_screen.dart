@@ -296,7 +296,7 @@ class AboutScreen extends StatelessWidget {
                   icon: Icons.web,
                   title: "موقعنا الإلكتروني",
                   subtitle: "اضغط هنا لزيارة الموقع.",
-                  url: "http://life-guard-monitor0.getenjoyment.net",
+                  url: "http://life-guard-monitortst.getenjoyment.net",
                   context: context,
                 ),
                 SizedBox(height: 5),

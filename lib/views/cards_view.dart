@@ -18,13 +18,13 @@ class _CardViewState extends State<CardView> {
   final List<CardModel> cards = [
     CardModel(
         image: 'assets/images/cards/heart.webp',
-        url: 'http://life-guard-monitor0.getenjoyment.net/heart_info.php'),
+        url: 'http://life-guard-monitortst.getenjoyment.net/heart_info.php'),
     CardModel(
         image: 'assets/images/cards/o2.webp',
-        url: 'http://life-guard-monitor0.getenjoyment.net/oxygen_info.php'),
+        url: 'http://life-guard-monitortst.getenjoyment.net/oxygen_info.php'),
     CardModel(
         image: 'assets/images/cards/temp.webp',
-        url: 'http://life-guard-monitor0.getenjoyment.net/temp_info.php'),
+        url: 'http://life-guard-monitortst.getenjoyment.net/temp_info.php'),
   ];
 
   @override
